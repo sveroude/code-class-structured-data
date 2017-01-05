@@ -1,0 +1,16 @@
+{
+  "name": "code-class-structured-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server 'exercises/' -i -p 3000"
+  },
+  "author": "Sanne Veroude <sanne@voorhoede.nl>",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "0.9.0",
+    "localtunnel": "1.8.2"
+  }
+}
