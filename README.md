@@ -19,7 +19,7 @@
 After starting the local server (http://localhost:3000), use the
 command line to request a tunnel to your local server:
 
-    $ lt --port 3000
+    $ npm run tunnel
 
 You will receive a url, for example https://gqgh.localtunnel.me, that
 you can share with anyone for as long as your local instance of lt 

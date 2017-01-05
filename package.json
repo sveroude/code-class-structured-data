@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "http-server 'exercises/' -i -p 3000"
+    "start": "http-server 'exercises/' -i -p 3000",
+    "tunnel": "lt --port 3000"
   },
   "author": "Sanne Veroude <sanne@voorhoede.nl>",
   "license": "MIT",
